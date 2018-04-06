@@ -1,0 +1,9 @@
+D:\labs\ipz\lab1\lab1\bin\Debug\lab1.exe.config
+D:\labs\ipz\lab1\lab1\bin\Debug\lab1.exe
+D:\labs\ipz\lab1\lab1\bin\Debug\lab1.pdb
+D:\labs\ipz\lab1\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+D:\labs\ipz\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\labs\ipz\lab1\lab1\obj\Debug\lab1.exe
+D:\labs\ipz\lab1\lab1\obj\Debug\lab1.pdb
+D:\labs\ipz\lab1\lab1\bin\Debug\Newtonsoft.Json.dll
+D:\labs\ipz\lab1\lab1\bin\Debug\Newtonsoft.Json.xml

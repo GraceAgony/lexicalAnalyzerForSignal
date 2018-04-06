@@ -1,0 +1,22 @@
+{
+  "TEST": {
+    "Code": 1002,
+    "Line": 1,
+    "Column": 11
+  },
+  "R4": {
+    "Code": 1003,
+    "Line": 1,
+    "Column": 17
+  },
+  "C1": {
+    "Code": 1004,
+    "Line": 2,
+    "Column": 1
+  },
+  "C2": {
+    "Code": 1005,
+    "Line": 2,
+    "Column": 4
+  }
+}
